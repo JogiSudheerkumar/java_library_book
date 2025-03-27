@@ -18,6 +18,12 @@ A simple Java-based digital library system that allows users to add, view, searc
 ###  Requirements
 - Java 8 or later installed.
 - Git installed.
+  
+##Compile the Java program:
+-javac Digital_Library_Book_Management_System.java
+
+##Run the application:
+-java Digital_Library_Book_Management_System
 
 
 
