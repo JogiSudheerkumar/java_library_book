@@ -1,1 +1,10 @@
+services:
+  - type: web
+    name: java_library_book
+    runtime: java
+    buildCommand: ./gradlew build  # Or `mvn clean install`
+    startCommand: java -jar build/libs/YOUR_APP.jar  # Adjust for your project
+    envVars:
+      - key: PORT
+        value: 10000
 
