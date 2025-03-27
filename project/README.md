@@ -1,4 +1,4 @@
-# Digital Library Book Management System 📚
+# Digital Library Book Management System 
 
 A simple Java-based digital library system that allows users to add, view, search, update, and delete books.
 
