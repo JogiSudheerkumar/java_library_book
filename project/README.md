@@ -25,6 +25,16 @@ A simple Java-based digital library system that allows users to add, view, searc
 ##Run the application:
 -java Digital_Library_Book_Management_System
 ##Deployment Link
-https://dashboard.render.com/static/srv-cviib6l6ubrc73dbcrt0/deploys/dep-cviib6t6ubrc73dbcrvg
-https://github.com/JogiSudheerkumar/java_library_book
+-https://dashboard.render.com/static/srv-cviib6l6ubrc73dbcrt0/deploys/dep-cviib6t6ubrc73dbcrvg
+
+-https://github.com/JogiSudheerkumar/java_library_book
+
+Challenges
+-Handling user input validation efficiently.
+-Managing book data storage without a database.
+
+Future Improvements
+Integrating a database (MySQL) for persistent storage.
+
+
 
